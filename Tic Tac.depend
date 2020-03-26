@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1585220256 source:c:\users\abnaby\desktop\tic tac\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<cstring>
+	<cmath>
+
+1581803118 source:c:\users\abnaby\desktop\tic tac\src\player.cpp
+	"Player.h"
+
+1581803118 c:\users\abnaby\desktop\tic tac\include\player.h
+
