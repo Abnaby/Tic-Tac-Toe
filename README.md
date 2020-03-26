@@ -18,6 +18,7 @@
   
     > AI always plays with "O"
     - Easy Level
-        . AI always plays randomly.
+        - AI always plays randomly.
+        
     - Medium Level
-        . AI always Defending and try to attack if it's available.
+        - AI always Defending and try to attack if it's available.
